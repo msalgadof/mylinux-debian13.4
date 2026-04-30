@@ -1,9 +1,11 @@
----Repositorios necesarios para personalizacion de GNOME (Debian 13.4)---
+# Personalizacion de GNOME
 
-**Este comando instala el Software "Retoques" para gnome**
+## Repositorios necesarios para personalizacion de GNOME (Debian 13.4)
 
-sudo apt install gnome-tweaks
+*Este comando instala el Software "Retoques" para gnome
 
-**Comando de instalacion de "Gestor de extensiones"**
+`sudo apt install gnome-tweaks`
 
-sudo apt install gnome-shell-extension-manager
+*Comando de instalacion de "Gestor de extensiones
+
+`sudo apt install gnome-shell-extension-manager`
